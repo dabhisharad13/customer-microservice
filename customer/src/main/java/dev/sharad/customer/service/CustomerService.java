@@ -1,7 +1,7 @@
 package dev.sharad.customer.service;
 
-import dev.sharad.customer.model.Customer;
 import dev.sharad.customer.CustomerRegistrationRequest;
+import dev.sharad.customer.model.Customer;
 import dev.sharad.customer.repository.CustomerRepository;
 import org.springframework.stereotype.Service;
 

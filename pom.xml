@@ -12,6 +12,7 @@
     <name>CustomerMicroservice</name>
     <modules>
         <module>customer</module>
+        <module>fraud</module>
     </modules>
 
     <properties>
